@@ -6,3 +6,8 @@ exports.handler = async (event) => {
     };
     return response;
     };
+
+
+
+
+    arn:aws:iam::273354639221:role/cmtr-d4de9914-iam-ar-iam_role-assume
